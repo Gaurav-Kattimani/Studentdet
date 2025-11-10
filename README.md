@@ -1,2 +1,0 @@
-# Studentdet
-students details
